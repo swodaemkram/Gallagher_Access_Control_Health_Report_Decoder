@@ -1,0 +1,2 @@
+# Gallagher_Access_Control_Health_Report_Decoder
+Decodes Gallaher Health Reports
